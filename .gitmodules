@@ -1,18 +1,18 @@
 [submodule "backend/database"]
 	path = backend/database
-	url = E:\\Project\\_Project\\Heletron\\backend\\database
+	url = E:\\Project\\ExploreSpring\\sql_dump
 [submodule "backend/server/SpringServer"]
 	path = backend/server/SpringServer
-	url = E:\\Project\\_Project\\Heletron\\backend\\server\\SpringServer
+	url = https://github.com/AshiqAshref/Server_V2.git
 [submodule "frontend/website/angular"]
 	path = frontend/website/angular
-	url = E:\\Project\\_Project\\Heletron\\frontend\\website\\angular
+	url = https://github.com/AshiqAshref/MedicineManagerWebPage.git
 [submodule "iot/modules/medicine_dispenser"]
 	path = iot/modules/medicine_dispenser
-	url = E:\\Project\\_Project\\Heletron\\iot\\modules\\medicine_dispenser
+	url = https://github.com/AshiqAshref/Arduino-Driver.git
 [submodule "iot/server/esp32"]
 	path = iot/server/esp32
-	url = E:\\Project\\_Project\\Heletron\\iot\\server\\esp32
+	url = https://github.com/AshiqAshref/ESP-Server.git
 [submodule "frontend/mobile/flutter"]
 	path = frontend/mobile/flutter
 	url = E:\\Project\\_Project\\Heletron\\frontend\\mobile\\flutter
