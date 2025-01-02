@@ -1,0 +1,15 @@
+[submodule "backend/database"]
+	path = backend/database
+	url = E:\\Project\\_Project\\Heletron\\backend\\database
+[submodule "backend/server/SpringServer"]
+	path = backend/server/SpringServer
+	url = E:\\Project\\_Project\\Heletron\\backend\\server\\SpringServer
+[submodule "frontend/website/angular"]
+	path = frontend/website/angular
+	url = E:\\Project\\_Project\\Heletron\\frontend\\website\\angular
+[submodule "iot/modules/medicine_dispenser"]
+	path = iot/modules/medicine_dispenser
+	url = E:\\Project\\_Project\\Heletron\\iot\\modules\\medicine_dispenser
+[submodule "iot/server/esp32"]
+	path = iot/server/esp32
+	url = E:\\Project\\_Project\\Heletron\\iot\\server\\esp32
