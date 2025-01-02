@@ -13,3 +13,6 @@
 [submodule "iot/server/esp32"]
 	path = iot/server/esp32
 	url = E:\\Project\\_Project\\Heletron\\iot\\server\\esp32
+[submodule "frontend/mobile/flutter"]
+	path = frontend/mobile/flutter
+	url = E:\\Project\\_Project\\Heletron\\frontend\\mobile\\flutter
