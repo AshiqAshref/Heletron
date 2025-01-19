@@ -16,3 +16,6 @@
 [submodule "frontend/mobile/flutter"]
 	path = frontend/mobile/flutter
 	url = E:\\Project\\_Project\\Heletron\\frontend\\mobile\\flutter
+[submodule "backend/server/ServletServer"]
+	path = backend/server/ServletServer
+	url = https://github.com/AshiqAshref/Server_servlet.git
